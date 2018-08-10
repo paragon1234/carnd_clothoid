@@ -4,11 +4,12 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 |   Name                            |   Udacity account email            |
 |-----------------------------------|------------------------------------|
-| Raghu Changalvala(**Team Lead**)  | raghu.changalva at gmail.com |
+| Vikramsingh Roday                 | vroday at yahoo.com          |
+| Raghu Changalvala                 | raghu.changalva at gmail.com |
 | Balachander Rajakondala           | balachander at  gmail.com    |
 | Sundar Raman                      | ssssundar at yahoo.com       |
 | Yufeiliu Brown                    | yufeiliubrown at gmail.com   |
-| Vikramsingh Roday                 | vroday at yahoo.com          |
+
 
 Please use **one** of the two installation options, either native **or** docker installation.
 
